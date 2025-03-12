@@ -8,7 +8,6 @@ A web API that helps users discover travel destinations in Mexico based on their
 - **Detailed Information**: View comprehensive details about each recommended location
 - **Visual Gallery**: Browse through high-quality images of destinations
 - **Interactive Maps**: Explore the recommended locations using integrated Mapbox maps to know where are located
-- 
 
 ## Technology Stack
 
@@ -25,14 +24,11 @@ A web API that helps users discover travel destinations in Mexico based on their
 
 1. Clone the repository
 
-2. Install dependencies:
+2. Set up the database
+
+3. Install dependencies:
    ```
    pip install -r requirements.txt
-   ```
-
-3. Set up the database:
-   ```
-   Import and set up the database"
    ```
 
 4. Run the application:
